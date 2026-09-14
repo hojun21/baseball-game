@@ -1,0 +1,8 @@
+[project]
+name = "baseball-game"
+version = "0.1.0"
+description = "화면 위에 떠 있는 오버레이 야구 게임"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.3.0",
+]
